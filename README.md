@@ -17,3 +17,6 @@ Data structures used:
 
 
 Completed as of 5/11/2016
+
+
+![alt tag](https://www.cs.usfca.edu/~galles/cs245/dijkstra/fig2.jpg)
