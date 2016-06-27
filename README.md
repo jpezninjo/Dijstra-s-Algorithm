@@ -13,7 +13,7 @@ TODO
 - [x] Finish writing Binomial Queue removeMin method
 - [x] Finish writing Binomial Queue updateCost method
 - [x] Write actual Djstra's algorithm code portion in main
-- [] ???Profit
+- [ ] ???Profit
 
 
 
